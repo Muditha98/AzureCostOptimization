@@ -1,0 +1,18 @@
+python-dotenv
+httpx
+azure-identity
+azure-ai-projects
+uvicorn
+starlette
+sse-starlette
+fastapi
+
+# Azure SDK packages for real data access
+azure-mgmt-monitor>=6.0.0
+azure-mgmt-resource>=23.0.0
+azure-mgmt-costmanagement>=4.0.1
+azure-mgmt-sql>=3.0.0
+azure-mgmt-cosmosdb>=9.0.0
+azure-mgmt-storage>=21.0.0
+azure-mgmt-compute>=30.0.0
+azure-mgmt-network>=25.0.0
